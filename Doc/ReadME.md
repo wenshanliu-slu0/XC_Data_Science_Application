@@ -1,6 +1,6 @@
 # Breast Cancer QA Chatbot 
 
-Authors: 
+Authors: Taegeon Yu,Wen-Shan Liu, Anu Varghese, Daipayan Bera
 
 Date: May 1, 2025
 
