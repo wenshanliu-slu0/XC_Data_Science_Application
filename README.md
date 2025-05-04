@@ -1,13 +1,12 @@
-#### Intro
-This is the repo for HDS5230 XC_Data_Science_Application
+## Intro
+This is the repo for HDS5230 XC_Data_Science_Application.
 
 ---
 
 # Project Name: Breast Cancer QA Chatbot 
 
-Authors: 
+Authors: Taegeon Yu,Wen-Shan Liu, Anu Varghese, Daipayan Bera
 
-Date: May 1, 2025
 
 ---
 #### directory structure 
