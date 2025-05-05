@@ -97,19 +97,21 @@ This application uses a unified LLM-driven pipeline centered on **OpenAI's GPT-4
 ---
 
 ### How to run this Application?
-Before run the application, download `breast_cancer_QA_chatbot_demo.ipynb` (in Src fodler) and `constant.py` (in Config folder) and then upload to your own `Google Drive` folder. 
-Please make sure both of them are in the same folder.
 
-0. Enter your **ChatGPT API Key**, **LANGSMITH_API_KEY**, and **HF_TOKEN** information  in `constant.py` file.
-1. Run in Jupyter Notebook `breast_cancer_QA_chatbot_demo.ipynb` by using `Google Colab`.
-2. When the code run the end, the `gradio` service will be set up and gradio user interface will be launched.
-3. You will see a chat window with:
+Steps to run the application:
+1. Clone this github repository to your Google Drive 
+2. Edit `constant.py` inside `Config` folder: Replace **ChatGPT API Key**, **LANGSMITH_API_KEY**, and **HF_TOKEN** with your information
+3. Open `breast_cancer_QA_chatbot_demo.ipynb` from Src folder, using `Google Colab`
+  
+When the code runs to the end, the `gradio` service will be set up and gradio user interface will be launched and you will see a chat window with:
 
     - A textbox to enter your question
     - A “Clear Chat” button to reset the conversation
     - Type your question about breast cancer (e.g., "What are the symptoms of breast cancer?")
     - Press `Enter`.      
     - The chatbot will display the reply in the chat window
+
+Please note: If you have changed the directory name after cloning, then you need to rename "target_folder_name" in the 4th cell. Also, we suggest that you run the first two cells first and restart the runtime to avoid any errors.
 
 Example:
 ![alt text](<../Picture/CleanShot.jpg>)
