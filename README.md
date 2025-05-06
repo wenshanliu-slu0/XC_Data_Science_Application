@@ -3,8 +3,9 @@
 
 This is the repo for HDS5230 XC_Data_Science_Application. </br>
 
-Authors: Taegeon Yu,Wen-Shan Liu, Anu Varghese, Daipayan Bera </br>
+Authors: Taegeon Yu, Wen-Shan Liu, Anu Varghese, Daipayan Bera </br>
 
+Video Link: https://drive.google.com/file/d/1bbV59y6gujEaWWstnTyfQfO6x8vqm9KK/view?usp=sharing
 
 ---
 #### directory structure 
