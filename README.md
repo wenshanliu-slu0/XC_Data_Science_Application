@@ -7,6 +7,9 @@ Authors: Taegeon Yu, Wen-Shan Liu, Anu Varghese, Daipayan Bera </br>
 
 Video Link: https://drive.google.com/file/d/1bbV59y6gujEaWWstnTyfQfO6x8vqm9KK/view?usp=sharing
 
+For the video, the code worked well until yesterday, and it is suddenly repeating the agent chain over and over 
+and we could not fix this issue
+
 ---
 #### directory structure 
 
